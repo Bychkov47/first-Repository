@@ -1,2 +1,2 @@
-# first-Repository
-my first Repository
+# Мой первый репозиторий в  Git )
+Я сделал это в 49 лет ))
